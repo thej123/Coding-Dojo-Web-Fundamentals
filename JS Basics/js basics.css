@@ -1,0 +1,33 @@
+#wrapper{
+    background-color: darkblue;
+    padding: 10px;
+    color: white;
+}
+#header{
+    background-color: red;
+    /* height: 60px; */
+    padding: 10px;
+    border-radius: 10px;
+}
+#navigation{
+    background-color: green;
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: underline;
+}
+#main_content{
+    background-color: black;
+    display: inline-block;
+    width: 650px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+#advertisement{
+    background-color: grey;
+    padding: 10px;
+    border-radius: 10px;
+}
