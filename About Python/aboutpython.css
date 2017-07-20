@@ -1,0 +1,125 @@
+#wrapper{
+    width: 970px;
+    background-color: darkcyan;
+    padding: 0px;
+}
+#headers{
+    width: 970px;
+}
+#headers img{
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+}
+#righthead{
+    width: 250px;
+    height: 100px;
+    text-align: right;
+    color: white;
+    display: inline-block;
+    margin-left: 350px;
+    vertical-align: top;
+}
+#yellows{
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+#black{
+    background-color: darkslategrey;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#search{
+    display: inline-block;
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 30px;
+    width: 150px;
+    margin-left: 0px;
+    vertical-align: top;
+}
+#go{
+    display: inline-block;
+    height: 30px;
+    vertical-align: middle;
+    width: 80px;
+    margin-left: 5px;
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border: 2px; border-style: outset white;
+    vertical-align: top;
+}
+#pagesbar{
+    width: 800px;
+    height: 30px;
+    background-color: lightskyblue;
+    border: 1px; border-style: outset black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: auto;
+}
+.pages{
+    margin: 0 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#bodyone{
+    color: white;
+    margin: 10px;
+}
+#links{
+    text-decoration: underline;
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    text-align: center;
+}
+#links ul{
+    display: inline-block;
+}
+#description{
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+    text-align: center;
+}
+#description p{
+    color: yellowgreen;
+    font-style: italic;
+}
+#bodytwo{
+    background-color: white;
+    text-align: center;
+}
+#getstart{
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+.blueline{
+    width: 200px;
+    height: 2px;
+    background-color: blue;
+    margin: auto;
+    display: inline-block;
+}
+#applications{
+    display: inline-block;
+    vertical-align: top;
+    width: 49%;
+}
+#bottom{
+    text-align: center;
+}
+.help{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 50px;
+}

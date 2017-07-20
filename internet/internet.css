@@ -1,0 +1,131 @@
+body{
+    /* background-color: lightslategray; */
+    padding: 10px;
+}
+
+#header{
+    width: 970px; 
+    height: 50px;
+}
+#globe{
+    height: 80px;
+    width: 100px; 
+    display: inline-block;
+    vertical-align: top;
+}
+#header h1{
+    height: 100px;
+    width: 200px; 
+    display: inline-block;
+    vertical-align: bottom;
+}
+.blues{
+    color: blue;
+}
+#www{
+    height: 50px;
+    width: 100%; 
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    /* vertical-align: middle; */
+}
+#navigation{
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+}
+#red{
+    color: red;
+}
+#content{
+    display: inline-block;
+    vertical-align: top;
+    width: 79%;
+}
+#blue_button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    width: 150px;
+}
+#orange_button{
+    background-color:orange;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+}
+#image_on_image{
+    text-align: center;
+    color: white;
+    background-image: url("ad_background.png");
+;}
+#ninja{
+    height: 150px;
+    width: 100px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+#light_blue_button{
+    background-color: lightblue;
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+#dns{
+    display: inline-block;
+    vertical-align: top;
+}
+#number{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 8px;
+    margin-left: 800px;
+}
+#home{
+    width: 20px;
+    height: 20px;
+}
+#phone{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    /* vertical-align: middle; */
+    margin-top: 10px;
+}
+#number p{
+    display: inline-block;
+    vertical-align: top;
+    height: 50px;
+    width: 100px;
+}
+#big_blue{
+    color: blue;
+    font-size: 20px;
+}
+#server_client{
+    width: 200px;
+    height: 100px;
+    margin-left: 200px;
+}
+#bottoms{
+    border-top: 20px blue;
+    border-right: 2px blue;
+    border-left: 2px blue;
+    border: 2px blue;
+    /* background-color: white; */
+}
+#html{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    vertical-align: top;
+}
+#bottoms p{
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+}
